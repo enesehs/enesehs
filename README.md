@@ -4,6 +4,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesehs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <p align="left">My portofolio website is live!</p>
 
 ###
@@ -28,6 +34,10 @@
 
 ###
 
+<img align="right" height="200" src="https://enesehs.github.io/public/assets/logo/profile-pic.png"  />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/authwall?trkInfo=AQFpuRToi9rOwwAAAZHHdjb4Arbw16JW9IOxYv1WZYxMIu_cDZwLEPNlF4PfkF7Fj1g_14V3J6AoxNZ9SLHZPT4_yBsqTtTHQ7N4PRsD_t2mQlx3S3hEvyWbCEUxQZkcn-uQLlA=&original_referer=https://enesehs.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fenesehs%2F" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -42,6 +52,8 @@
 
 ###
 
-<img align="right" height="200" src="https://enesehs.github.io/public/assets/logo/profile-pic.png"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/enesehs/enesehs/output/snake.svg" alt="Snake animation" />
 
 ###
