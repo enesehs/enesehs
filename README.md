@@ -5,8 +5,8 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-    <strong style="font-size: 34px;">I am a Jr. Unreal Engine Developer</strong> <br>
-    Founder & CEO at Plasenta Entertainment
+    <strong>I am Jr. Unreal Engine Developer</strong> <br>
+    <strong>Founder & CEO at Plasenta Entertainment</strong>
   </div>
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BkaDhiY2t0ODZxNTlkOXVxYmU4Nnh4aDFkd2tlOGFhNjYzZTBqZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l3V0s5MV1kudEMP9C/giphy.gif" alt="enesehs" width="200" />
 </div>
