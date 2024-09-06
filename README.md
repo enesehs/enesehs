@@ -1,59 +1,55 @@
-<br clear="both">
+# Hello, I'm Enes Hacısağır! 👋
 
-<h2 align="left">I'm Enes a Game Developer</h2>
+I am a passionate game developer with a strong foundation in programming and a love for creating immersive gaming experiences. Currently, I'm enhancing my skills in **C++** and **Unreal Engine**, while expanding my knowledge in web development.
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesehs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+## 👨‍💻 About Me
 
-###
+- 🎮 I'm a Junior Unreal Engine Developer.
+- 💻 I have been fascinated by games and game development since childhood.
+- 🌟 My dream is to make a name for myself in the gaming industry with a AAA-class game.
+- 🧠 Currently, I'm deepening my skills in **C++** and **Unreal Engine** while exploring **web technologies**.
 
-<p align="left">My portofolio website is live!</p>
+---
 
-###
+## 🛠️ Technologies & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+### Programming Languages:
+- **C**
+- **C#**
+- **C++**
+- **Python**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Batch Scripts**
 
-###
+### Game Development:
+- **Unreal Engine**
+- **Unity**
 
-<img align="right" height="200" src="https://enesehs.github.io/public/assets/logo/profile-pic.png"  />
+### Web Development:
+- **HTML5**, **CSS3**, **JavaScript**
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/authwall?trkInfo=AQFpuRToi9rOwwAAAZHHdjb4Arbw16JW9IOxYv1WZYxMIu_cDZwLEPNlF4PfkF7Fj1g_14V3J6AoxNZ9SLHZPT4_yBsqTtTHQ7N4PRsD_t2mQlx3S3hEvyWbCEUxQZkcn-uQLlA=&original_referer=https://enesehs.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fenesehs%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/enesehs.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@enesehs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+## 🌍 Let's Connect!
 
-###
+- [Personal Website](assets/enesehs.png)(https://yourwebsite.com) 🌐
+- [LinkedIn](assets/linkedin.png)(https://linkedin.com/in/yourprofile) 💼
+- [Instagram](assets/instagram.png)(https://instagram.com/yourprofile) 📷
+- [YouTube](assets/youtube.png)(https://youtube.com/yourchannel) 🎥
+- [GitHub](assets/github.png)(https://github.com/enesehs) 👨‍💻
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/enesehs/enesehs/output/snake.svg" alt="Snake animation" />
+## 📊 GitHub Stats
 
-###
+![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesehs&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enesehs&layout=compact&theme=dark)
+
+---
+
+Feel free to reach out for collaboration or just to say hi!
